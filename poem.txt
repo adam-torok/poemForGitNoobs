@@ -1,4 +1,4 @@
-The Peanut and the hazelnut.
+The Peanut and the hazelnut and the Nut.
  
 Peanut for foo.
 Peanut for fee.
@@ -8,3 +8,5 @@ Peanut for Everybody.
 Hazelnut for Peanut.
 Hazelnut for foo.
 Hazelnut for Everybody.
+
+Nut nut nut, Hazelnut - Peanut.
