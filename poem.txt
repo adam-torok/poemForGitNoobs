@@ -1,4 +1,6 @@
 The Peanut 
-Peanut for foo
-Peanut for fee 
+
+Peanut for foo.
+Peanut for fee.
 Peanot for fee fee.
+Peanut for Everybody.
